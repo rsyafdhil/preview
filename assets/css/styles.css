@@ -17,11 +17,6 @@ a {
     text-decoration: none;
 }
 
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-    color: white;
-    background-color: #006f2c;
-  }
-
 @media screen and (min-width: 1300px) {
     /* .container {
         width: 1440px;
